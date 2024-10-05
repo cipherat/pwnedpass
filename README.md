@@ -30,6 +30,5 @@ or use `--help` for more info
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
-Please reffer to [TODO.txt](https://github.com/cipherat/pwnedpass/TODO.txt) for priority features/bugs.
 
 Please make sure to update tests as appropriate.
